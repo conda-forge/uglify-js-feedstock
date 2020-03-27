@@ -1,5 +1,5 @@
 {% set name = "uglify-js" %}
-{% set version = "3.8.0" %}
+{% set version = "3.8.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/mishoo/UglifyJS2/archive/v{{ version }}.tar.gz
-  sha256: de1312dd40f9af52d904d0db1551e3e89a56cf853ffa3689fbd1c7c9de1e38fe
+  sha256: 1ac0095b246683cc311788e95b5d9ab5651f2c0054cf35f7386a96d21e2f41d8
 
 build:
   number: 0
@@ -32,7 +32,7 @@ about:
   license: BSD-2-Clause
   license_family: BSD
   license_file: LICENSE
-  summary: 'JavaScript parser / mangler / compressor / beautifier toolkit'
+  summary: JavaScript parser / mangler / compressor / beautifier toolkit
 
 extra:
   recipe-maintainers:
