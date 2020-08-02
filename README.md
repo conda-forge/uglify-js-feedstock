@@ -5,7 +5,7 @@ Home: https://github.com/mishoo/UglifyJS2#readme
 
 Package license: BSD-2-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: JavaScript parser / mangler / compressor / beautifier toolkit
 
