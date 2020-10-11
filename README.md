@@ -5,11 +5,9 @@ Home: https://github.com/mishoo/UglifyJS2#readme
 
 Package license: BSD-2-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/uglify-js-feedstock/blob/master/LICENSE.txt)
 
 Summary: JavaScript parser / mangler / compressor / beautifier toolkit
-
-
 
 Current build status
 ====================
