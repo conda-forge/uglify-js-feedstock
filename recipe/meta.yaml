@@ -1,5 +1,5 @@
 {% set name = "uglify-js" %}
-{% set version = "3.11.2" %}
+{% set version = "3.11.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/mishoo/UglifyJS2/archive/v{{ version }}.tar.gz
-  sha256: 3e180b1b10e54194df1dd6f5e20d2d57e9d2d9fb33acb5b970cb1998a9c883c7
+  sha256: 9457e6c9afcf2b6e42fb7686073a8d28a6e944eaf6de7ba59963ae364eedad6a
 
 build:
   number: 0
